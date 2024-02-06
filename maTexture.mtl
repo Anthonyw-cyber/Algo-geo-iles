@@ -1,0 +1,23 @@
+newmtl Eau
+Ka 0.0 0.0 0.7
+Kd 0.0 0.0 0.7
+Ks 0.5 0.5 0.5
+Ns 96.0
+
+newmtl Sable
+Ka 0.76 0.70 0.50
+Kd 0.76 0.70 0.50
+Ks 0.5 0.5 0.5
+Ns 10.0
+
+newmtl Gazon
+Ka 0.0 0.5 0.0
+Kd 0.0 0.5 0.0
+Ks 0.5 0.5 0.5
+Ns 30.0
+
+newmtl Neige
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.5 0.5 0.5
+Ns 100.0
